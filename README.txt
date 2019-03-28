@@ -1,0 +1,1 @@
+This is a simple Tip Calculator application using JavaScript. Including the use of BootStrap for aesthetics.
