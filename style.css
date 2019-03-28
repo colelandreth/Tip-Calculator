@@ -1,0 +1,23 @@
+body {
+    background: #8e9eab;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #d6d6d6, #8e9eab);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #d6d6d6, #8e9eab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    width: 100%;
+    height: 100%;
+}
+
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+    margin-top: 5em;
+}
+
+p {
+    padding-top: 1em;
+}
+
+button {
+    margin-top: 10em;
+}
